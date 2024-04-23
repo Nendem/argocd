@@ -15,5 +15,5 @@ spec:
         app: neten-deploy
     spec:
       containers:
-      - image: nend895/takin:13
+      - image: nend895/newpet:13
         name: pet
